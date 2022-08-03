@@ -8,3 +8,7 @@ A custom report to dispaly sales order data based on few selection criteria.
 ## How To Use
 
 The program was written using SAP ECC. The easiest way to run it, is to create a new package within t-code se80 and paste the code. Remember to create SCREEN 100!
+
+## Flow
+
+![Screen 1](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/1.png "Selection screen")

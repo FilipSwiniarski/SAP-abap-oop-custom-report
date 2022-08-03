@@ -11,9 +11,9 @@ The program was written using SAP ECC. The easiest way to run it, is to create a
 
 ## Flow
 
-![Screen 1](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/1.png {:height="36px" width="36px"} "Selection screen") 
-![Screen 2](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/2.png =500x500 "Layout selection") 
-![Screen 3](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/3.png =500x500 "Fill in search terms") 
-![Screen 4](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/4.png =500x500 "Sales order details") 
-![Screen 5](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/5.png =500x500 "Material details") 
-![Screen 6](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/6.png =500x500 "Popup window with items details") 
+<img src='https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/1.png' height='500' alt="Selection screen"/>
+<img src='https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/2.png' height='500' alt="Layout selection"/> 
+<img src='https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/3.png' height='500' alt="Fill in search terms"/>
+<img src='https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/4.png' height='500' alt="Sales order details"/>
+<img src='https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/5.png' height='500' alt="Material details"/>
+<img src='https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/6.png' height='500' alt="Popup window with items details"/>

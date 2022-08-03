@@ -11,4 +11,4 @@ The program was written using SAP ECC. The easiest way to run it, is to create a
 
 ## Flow
 
-![Screen 1](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/1.png "Selection screen")
+![Screen 1](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/1.png "Selection screen" height='50%')

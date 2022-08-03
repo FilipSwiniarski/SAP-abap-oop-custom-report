@@ -11,7 +11,7 @@ The program was written using SAP ECC. The easiest way to run it, is to create a
 
 ## Flow
 
-![Screen 1](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/1.png =500x500 ) 
+![Screen 1](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/1.png {:height="36px" width="36px"} "Selection screen") 
 ![Screen 2](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/2.png =500x500 "Layout selection") 
 ![Screen 3](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/3.png =500x500 "Fill in search terms") 
 ![Screen 4](https://github.com/FilipSwiniarski/SAP-abap-oop-custom-report/blob/master/screens/4.png =500x500 "Sales order details") 
